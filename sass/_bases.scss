@@ -12,10 +12,10 @@
 }
 
 .seccion_uno {
-    background-color:background_uno;
+    background-color: $background_uno;
     padding-top: $padding;
     h1,h3 {
-        color:$color_text_titulo;
+        color: $color_text_titulo;
         text-align: $text_center;
     }
 }
